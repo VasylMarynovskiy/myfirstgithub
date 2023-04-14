@@ -1,0 +1,17 @@
+body{
+	background-color: #124046;
+	color: white;
+	text-align: center;
+}
+
+img{
+	max-width: 200px;
+}
+
+ul{
+	margin: 0 auto;
+	background-color: black;
+	max-width: 200px;
+	text-align: left;
+
+}
